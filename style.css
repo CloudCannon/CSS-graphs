@@ -1,0 +1,25 @@
+body {
+	font-size: 18px;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+	max-width: 500px;
+	width: 98%;
+	margin: auto;
+}
+
+table, td {
+	width: 100%;
+	border: 1px solid #eee;
+	background: #fafafa;
+	border-collapse: collapse;
+	padding: 10px;
+}
+
+td:first-child {
+	width: 70%;
+	text-align: right;
+}
+
+table {
+	width: 100%;
+	margin: 20px 0; 
+}

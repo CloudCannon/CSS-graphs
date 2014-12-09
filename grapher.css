@@ -1,0 +1,12 @@
+.grapher-container {
+	background: #fff;
+	border: 1px solid #eee;
+	margin: 20px 0;
+	height: 160px;
+	position: relative;
+}
+
+.grapher-container, *
+.grapher-container {
+	box-sizing: border-box;
+}
