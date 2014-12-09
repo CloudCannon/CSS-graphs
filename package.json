@@ -1,0 +1,16 @@
+{
+  "name": "cloudcannon-css-graphs",
+  "version": "0.0.1",
+  "description": "CSS graphs ",
+  "author": "George Phillips <georgepaulphillips@gmail.com>",
+  "private": true,
+  "dependencies": {
+    "grunt": "~0.4.2"
+  },
+  "devDependencies": {
+    "grunt-contrib-cssmin": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-cssc": "*",
+    "matchdep": "*"
+  }
+}
