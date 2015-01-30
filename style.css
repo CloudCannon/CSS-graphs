@@ -15,7 +15,7 @@ table, td {
 }
 
 td:first-child {
-	width: 70%;
+	width: 70%; 
 	text-align: right;
 }
 
